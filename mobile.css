@@ -1,0 +1,34 @@
+.sidebar,
+.widgets {
+  display: none;
+}
+body {
+  padding: 0;
+  margin: 0;
+}
+.post{
+  overflow-y: auto ;
+}
+
+.post-img {
+  left: 15px;
+  width: 100%;
+  top: 150px;
+  background-image: url(./t2.png);
+}
+.content-right{
+  padding-left: 50px;
+}
+.sidebar_tweet{
+  width: 3rem;
+		height: 3rem;
+		background-image: url("images/tweetsmallimage.PNG");
+		background-repeat: no-repeat;
+		background-position: 0.6rem 0.6rem;
+		padding: 0rem;
+		margin-left: 1.2rem;
+}
+.container-img {
+  width: 90px;
+  height: 90px;
+}
